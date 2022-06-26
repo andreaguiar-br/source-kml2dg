@@ -38,5 +38,8 @@ nb-configuration.xml
 # Local environment
 .env
 
+# arquivos gerados no projeto
+offset-file-1.dat
+
 *.log
 *.log.*
